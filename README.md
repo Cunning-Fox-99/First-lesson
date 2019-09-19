@@ -1,2 +1,2 @@
 # First-lesson
-my first lesson
+One of my first works in C #
