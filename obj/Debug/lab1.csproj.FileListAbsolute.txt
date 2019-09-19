@@ -1,0 +1,15 @@
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\MainWindow.g.cs
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\App.g.cs
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1_MarkupCompile.cache
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1_MarkupCompile.lref
+D:\Лабки\Сист.Анализ\lab1\bin\Debug\lab1.exe.config
+D:\Лабки\Сист.Анализ\lab1\bin\Debug\lab1.exe
+D:\Лабки\Сист.Анализ\lab1\bin\Debug\lab1.pdb
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\MainWindow.baml
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1.g.resources
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1.exe
+D:\Лабки\Сист.Анализ\lab1\obj\Debug\lab1.pdb
